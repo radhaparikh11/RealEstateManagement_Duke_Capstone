@@ -1,0 +1,13 @@
+Excel Weeek 3"
+Forecast best nightly rent to charge for each of the client’s 244 Watershed properties - 
+the rent that maximizes forecast annual revenues for each of those properties.
+
+
+First, creating a predictive model – 
+using a best-fit line on historical data for properties comparable to Watershed's – 
+that relates nightly rents to forecast occupancy rates.
+
+Second, using the predictive model you have created, 
+along with the MS Excel “Solver” optimization tool, to find, 
+for each individual property separately, the nightly rent that maximizes its forecast total revenues – 
+the product of the optimum nightly rent and its associated occupancy rate.
